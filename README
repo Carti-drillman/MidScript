@@ -5,19 +5,19 @@ This programming language is a interpreted language that are good for beginners.
 # Installation
 If you haven't download TS-node yet, type this command in command prompt.
 ```bash
-npm install -g ts-node
+  npm install -g ts-node
 ```
 
 Go open your git bash and type this command:
 ```bash
-git clone https://github.com/yourusername/MidScript.git
-cd MidScript
+  git clone https://github.com/yourusername/MidScript.git
+  cd MidScript
 ```
 
 # Run MidScript files
 Go to the terminal and type in this command.
 ```bash
-ts-node main.ts yourfilename.mscpt
+  ts-node main.ts yourfilename.mscpt
 ```
 
 # Example code
@@ -25,14 +25,14 @@ ts-node main.ts yourfilename.mscpt
 Here is the example code of MidScript.
 
 ```TypeScript
-print "Hello World!"
-print "Goodbye World!"
+  print "Hello World!"
+  print "Goodbye World!"
 
-let x 10
-let y 90
+  let x 10
+  let y 90
 
-print x
-print y
+  print x
+  print y
 ```
 
 Come contact mmbkmcgamming2014@gmail.com!
