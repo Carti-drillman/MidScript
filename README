@@ -24,7 +24,7 @@ Go to the terminal and type in this command.
 
 Here is the example code of MidScript.
 
-```TypeScript
+```c++
   print "Hello World!"
   print "Goodbye World!"
 
