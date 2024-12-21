@@ -1,0 +1,10 @@
+print "Hello World!"
+print "Goodbye World!"
+
+print "This code was written in MidScript."
+
+let x 20
+let y 21
+
+print x
+print y
