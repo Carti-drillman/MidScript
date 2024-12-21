@@ -10,7 +10,7 @@ If you haven't download TS-node yet, type this command in command prompt.
 
 Go open your git bash and type this command:
 ```bash
-  git clone https://github.com/yourusername/MidScript.git
+  git clone https://github.com/Carti-drillman/MidScript.git
   cd MidScript
 ```
 
